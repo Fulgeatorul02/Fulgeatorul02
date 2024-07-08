@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fulgeatorul02
+- 👀 I’m interested in game making
+- 🌱 I’m currently learning c++ and python
+- 💞️ I’m looking to collaborate on emotional support
+- ⚡ Fun fact: I might become insane from coding
