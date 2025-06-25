@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fulgeatorul02
+- 👋 Hi, I’m @Fulgeratorul02
 - 👀 I’m interested in game making
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on emotional support
